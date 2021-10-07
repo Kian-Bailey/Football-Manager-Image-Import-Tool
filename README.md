@@ -19,6 +19,6 @@ As the pack doesn't contain all player faces, I found a way to add more images m
 
 ![The folder containing the image files](https://imgur.com/Pl7zBxP)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ioeg7eH" data-context="false" ><a href="//imgur.com/a/ioeg7eH"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Imgur](https://imgur.com/Pl7zBxP)
 ## Please Note
 The program will not work on another device as it was only intended to be used for personal use. The attatched Python file is uploaded solely for the code to be viewed.
